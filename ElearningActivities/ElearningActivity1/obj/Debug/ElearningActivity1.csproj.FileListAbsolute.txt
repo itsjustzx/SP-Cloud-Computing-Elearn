@@ -1,0 +1,6 @@
+C:\CloudService\ElearningActivities\ElearningActivity1\bin\ElearningActivity1.dll.config
+C:\CloudService\ElearningActivities\ElearningActivity1\bin\ElearningActivity1.dll
+C:\CloudService\ElearningActivities\ElearningActivity1\bin\ElearningActivity1.pdb
+C:\CloudService\ElearningActivities\ElearningActivity1\obj\Debug\ElearningActivity1.csprojResolveAssemblyReference.cache
+C:\CloudService\ElearningActivities\ElearningActivity1\obj\Debug\ElearningActivity1.dll
+C:\CloudService\ElearningActivities\ElearningActivity1\obj\Debug\ElearningActivity1.pdb
